@@ -18,12 +18,12 @@ Here's an example of how to use this script to convert an XPS file to PDF:
 
 ```bash
 python xpsToPdf.py
-
-Requirements
+```
+## Requirements
 
     The PyMuPDF library must be installed.
 
-Contribution
+## Contribution
 
 If you wish to contribute to this project, please submit pull requests or report any issues.
 
